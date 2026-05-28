@@ -1,0 +1,8 @@
+{
+  "name": "Remix: برنامج الإقلاع",
+  "description": "تطبيق ذكي يساعدك على التخلص من العادات السيئة تدريجياً عبر إعادة جدولة أوقات تكرارها والمباعدة بينها تلقائياً بالوتيرة التي تلائمك، مع نظام محاكاة للتنبيهات والاشتراك السنوي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
